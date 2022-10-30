@@ -1,0 +1,391 @@
+.one
+{
+	display:flex;
+	margin:160px;
+	border:2px solid black;
+	flex-direction:column;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.one .header
+{
+	display:flex;
+	flex-direction:row;
+	background-color:brown;
+}
+.one .header .b1
+{
+	height:20px;
+	width:50px;
+	background-color:blue;
+	margin:20px;
+}
+.one .header .b2
+{
+	height:20px;
+	width:50px;
+	background-color:blue;
+	margin:20px;
+	margin-left:600px;
+}
+.one .header .b
+{
+	height:20px;
+	width:50px;
+	background-color:blue;
+	margin:20px;
+}
+.one .split1
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+}
+.one .split1 .split11
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split1 .split11 .dark
+{
+	height:40px;
+	width:300px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:40px;
+	margin-bottom:5px;
+}
+.one .split1 .split11 .text
+{
+	height:30px;
+	width:250px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split1 .split11 .b
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split1 .split11 .b .button
+{
+	height:20px;
+	width:50px;
+	background-color:blue;
+	margin:10px;
+}
+.one .split1 .split12
+{
+	display:flex;
+	justify-content:center;
+}
+.one .split1 .split12 .photo
+{
+	height:150px;
+	width:100px;
+	background-color:yellow;
+	margin-left:10px;
+}
+.one .split2
+{
+	display:flex;
+	flex-direction:column;
+	background-color:blue;
+}
+.one .split2 .content
+{
+	height:60px;
+	width:300px;
+	background-color:white;
+	margin:0 auto;
+	margin-top:40px;
+	margin-bottom:5px;
+}
+.one .split2 .logo
+{
+	height:40px;
+	width:60px;
+	background-color:white;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split3 .split31
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split3 .split31 .split311
+{
+	display:flex;
+}
+.one .split3 .split31 .split311 .pic
+{
+	height:300px;
+	width:200px;
+	background-color:yellow;
+	margin:20px;
+	margin-left:50px;
+}
+.one .split3 .split31 .split312
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.one .split3 .split31 .split312 .split3121
+{
+	display:flex;
+	flex-direction:column;
+	height:200px;
+	width:300px;
+}
+.one .split3 .split31 .split312 .split3121 .logo
+{
+	height:40px;
+	width:60px;
+	background-color:purple;
+	margin:0px auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3121 .dark
+{
+	height:40px;
+	width:200px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;	
+}
+.one .split3 .split31 .split312 .split3121 .text
+{
+	height:30px;
+	width:150px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3122
+{
+	display:flex;
+	flex-direction:column;
+	height:200px;
+	width:300px;
+}
+.one .split3 .split31 .split312 .split3122 .logo
+{
+	height:40px;
+	width:60px;
+	background-color:purple;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3122 .dark
+{
+	height:40px;
+	width:200px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3122 .text
+{
+	height:30px;
+	width:150px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3123
+{
+	display:flex;
+	flex-direction:column;
+	height:200px;
+	width:300px;
+}
+.one .split3 .split31 .split312 .split3123 .logo
+{
+	height:40px;
+	width:60px;
+	background-color:purple;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3123 .dark
+{
+	height:40px;
+	width:200px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3123 .text
+{
+	height:30px;
+	width:150px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3124
+{
+	display:flex;
+	flex-direction:column;
+	margin-left:10px;
+	margin-right:10px;
+	height:200px;
+	width:300px;
+}
+.one .split3 .split31 .split312 .split3124 .logo
+{
+	height:40px;
+	width:60px;
+	background-color:purple;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3124 .dark
+{
+	height:40px;
+	width:200px;
+	background-color:black;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split31 .split312 .split3124 .text
+{
+	height:30px;
+	width:150px;
+	background-color:gray;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split32
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split3 .split32 .split321
+{
+	display:flex;
+	flex-direction:column;
+}
+.one .split3 .split32 .split321 .dark
+{
+	height:40px;
+	width:200px;
+	background-color:green;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:5px;	
+}
+.one .split3 .split32 .split321 .text
+{
+	height:30px;
+	width:150px;
+	background-color:pink;
+	margin:0 auto;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.one .split3 .split32 .split322
+{
+	display:flex;
+	justify-content:center;
+}
+.one .split3 .split32 .split322 .photo
+{
+	height:150px;
+	width:200px;
+	background-color:purple;
+	margin:20px;
+	margin-left:50px;
+}
+.one .split4
+{
+	display:flex;
+	flex-direction:column;
+	background-color:black;
+}
+.one .split4 .dark
+{
+	height:40px;
+	width:200px;
+	background-color:blue;
+	margin:10px;
+	margin-left:50px;
+}
+.one .split4 .button
+{
+	height:20px;
+	width:50px;
+	background-color:pink;
+	margin:10px;
+	margin-left:50px;
+}
+.one .split5
+{
+	display:flex;
+	flex-direction:column;
+	background-color:blue;
+}
+.one .split5 .split51
+{
+	display:flex;
+	justify-content:center;
+}
+.one .split5 .split51 .dark
+{
+	height:40px;
+	width:220px;
+	background-color:white;
+}
+.one .split5 .split52
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+.one .split5 .split52 .button
+{
+	height:20px;
+	width:80px;
+	background-color:gray;
+	margin:10px;
+}
+.one .footer
+{
+	display:flex;
+	justify-content:center;
+	background-color:black;
+}
+.one .footer .about
+{
+	height:40px;
+	width:220px;
+	background-color:white;
+	margin:10px;
+}
+
