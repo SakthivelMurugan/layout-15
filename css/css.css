@@ -87,7 +87,7 @@
 	height:150px;
 	width:100px;
 	background-color:yellow;
-	margin-left:10px;
+	margin:10px;
 }
 .one .split2
 {
@@ -361,6 +361,7 @@
 	height:40px;
 	width:220px;
 	background-color:white;
+	margin:10px;
 }
 .one .split5 .split52
 {
