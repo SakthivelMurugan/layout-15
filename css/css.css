@@ -1,8 +1,6 @@
 .one
 {
 	display:flex;
-	margin:160px;
-	border:2px solid black;
 	flex-direction:column;
 	margin-top:10px;
 	margin-bottom:10px;
@@ -12,21 +10,26 @@
 	display:flex;
 	flex-direction:row;
 	background-color:brown;
+	justify-content:space-between;
 }
-.one .header .b1
+.one .header .header1
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-start;
+}
+.one .header .header1 .b
 {
 	height:20px;
 	width:50px;
 	background-color:blue;
 	margin:20px;
 }
-.one .header .b2
+.one .header .header2
 {
-	height:20px;
-	width:50px;
-	background-color:blue;
-	margin:20px;
-	margin-left:600px;
+	display:flex;
+	flex-direction:row;
+	justify-content:flex-end;
 }
 .one .header .b
 {
@@ -148,7 +151,7 @@
 	display:flex;
 	flex-direction:column;
 	height:200px;
-	width:300px;
+	width:400px;
 }
 .one .split3 .split31 .split312 .split3121 .logo
 {
@@ -182,7 +185,7 @@
 	display:flex;
 	flex-direction:column;
 	height:200px;
-	width:300px;
+	width:400px;
 }
 .one .split3 .split31 .split312 .split3122 .logo
 {
@@ -216,7 +219,7 @@
 	display:flex;
 	flex-direction:column;
 	height:200px;
-	width:300px;
+	width:400px;
 }
 .one .split3 .split31 .split312 .split3123 .logo
 {
@@ -252,7 +255,7 @@
 	margin-left:10px;
 	margin-right:10px;
 	height:200px;
-	width:300px;
+	width:400px;
 }
 .one .split3 .split31 .split312 .split3124 .logo
 {
